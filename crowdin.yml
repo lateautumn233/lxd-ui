@@ -1,0 +1,6 @@
+targets:
+  - name: lxd-ui
+    sources:
+      - /src/**/*
+    file: /src/%language%/**/*.xml
+    format: android
