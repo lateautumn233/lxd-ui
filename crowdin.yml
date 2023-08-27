@@ -4,3 +4,6 @@ targets:
       - /src/**/*
     file: /src/%language%/**/*.xml
     format: android
+files:
+  - source: /src/**/*
+    translation: /%two_letters_code%//src/**/%original_file_name%
