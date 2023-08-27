@@ -5,5 +5,5 @@ targets:
     file: /src/%language%/**/*.xml
     format: android
 files:
-  - source: /src/**/**/**/*
+  - source: /src/pages/**/**/*
     translation: /%two_letters_code%//src/**/%original_file_name%
